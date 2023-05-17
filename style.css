@@ -1,0 +1,32 @@
+body
+{background-color: #efc9ff;
+color: #b28ec4; 
+font-family: 'Pacifico', cursive;
+
+} 
+
+h1, p{
+    color:#ff97cf;
+} 
+
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size: 20px;
+}
+img{
+    width: px;
+    height: px;
+    border-style: solid;
+    border-width: 4px;
+    padding: px;
+    margin: 20px;
+
+}
+a{
+    color:#bfb8db ;
+}
